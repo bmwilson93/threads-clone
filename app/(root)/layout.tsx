@@ -9,10 +9,10 @@ import Bottombar from "@/components/shared/Bottombar";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title: "Threads",
-  description: "A Next.js Threads App",
-};
+export const metadata = {
+  title: 'Threads',
+  description: 'A Next.js Meta Threads Application'
+}
 
 export default function RootLayout({
   children,
